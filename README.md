@@ -1,3 +1,3 @@
 # ANN
 
-Nural Network Usin Keras ,Python
+Neural Network Usin Keras ,Python
